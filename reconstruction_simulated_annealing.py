@@ -1,3 +1,8 @@
+"""
+Author: Pouria Akbari Mistani
+Year: 2019
+"""
+
 import matplotlib.pyplot as plt
 import numpy as np
 import pdb
